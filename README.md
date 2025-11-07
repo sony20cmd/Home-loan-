@@ -4,6 +4,7 @@ The aim of this Power BI report is to analyze home loan applications and approva
 This analysis helps financial institutions optimize loan policies, improve approval efficiency, and manage credit risk.
 
 # 2.Key Insights
+
 •	Overall Approval Rate: Around 68–75% of total applications were approved.
 •	Credit History Impact: Applicants with a positive credit history had an approval rate above 80%.
 •	Income Trends: Higher income applicants tend to receive larger loan amounts but approval is mostly credit-dependent.
