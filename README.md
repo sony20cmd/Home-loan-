@@ -6,10 +6,15 @@ This analysis helps financial institutions optimize loan policies, improve appro
 # 2.Key Insights
 
 •	Overall Approval Rate: Around 68–75% of total applications were approved.
+
 •	Credit History Impact: Applicants with a positive credit history had an approval rate above 80%.
+
 •	Income Trends: Higher income applicants tend to receive larger loan amounts but approval is mostly credit-dependent.
+
 •	Gender Analysis: Male applicants applied for more loans, but approval rates were similar across genders.
+
 •	Property Area: Urban and semi-urban areas showed higher approval counts compared to rural areas.
+
 •	Dependents Factor: Applicants with fewer dependents had higher success rates.
 ________________________________________
 
