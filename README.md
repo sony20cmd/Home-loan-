@@ -1,4 +1,6 @@
 # Home-loan-
+<img width="806" height="650" alt="image" src="https://github.com/user-attachments/assets/4be578a4-912f-4d32-8f28-06146c898630" />
+
 # 1.Objective :-
 The aim of this Power BI report is to analyze home loan applications and approvals to identify key factors affecting loan approval decisions, customer profiles, and bank performance.
 This analysis helps financial institutions optimize loan policies, improve approval efficiency, and manage credit risk.
